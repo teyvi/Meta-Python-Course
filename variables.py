@@ -25,3 +25,6 @@ print(z)
 
 z= 6
 print(z)
+
+del z
+print(z)
