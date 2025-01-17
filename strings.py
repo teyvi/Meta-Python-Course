@@ -7,6 +7,7 @@ single_line_string = "Hello You!"
 multi_string = 'Hello are you '\
 'in the house?'
 
+print(single_line_string + multi_string)
 #strings can also be reassigned well, just like all variables except tuples i think haha!
 name = "mercy"
 print(name)
