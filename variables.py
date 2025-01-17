@@ -19,7 +19,7 @@ print(x)
 print(y)
 print(z)
 
-#reassigning variables
+#reassigning and deleting variables
 z = 20
 print(z)
 
