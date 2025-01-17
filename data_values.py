@@ -24,5 +24,7 @@ print(tuple_example[2])
 kids = {"first": "john", "second": "jane", "third": "josh"}
 print(kids['first'])
 
-#boolean
+#boolean check if a condition is true of false
+boolean_example = True
+print(type(boolean_example))
 #set
