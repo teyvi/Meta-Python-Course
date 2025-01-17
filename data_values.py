@@ -18,8 +18,11 @@ print(type(list_example))
 #the values in a tuple cannot be changed
 tuple_example = (3,4, "tomb", 5.09)
 print(type(tuple_example))
+print(tuple_example[2])
 
+#dictionary stores data in a key value structure
+kids = {"first": "john", "second": "jane", "third": "josh"}
+print(kids['first'])
 
-#dictionary 
 #boolean
 #set
