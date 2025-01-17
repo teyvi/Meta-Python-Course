@@ -18,3 +18,10 @@ x,y,z = 1,2,3
 print(x)
 print(y)
 print(z)
+
+#reassigning variables
+z = 20
+print(z)
+
+z= 6
+print(z)
