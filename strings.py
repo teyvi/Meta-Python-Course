@@ -12,3 +12,7 @@ name = "mercy"
 print(name)
 name = "Angelo"
 print(name)
+
+#accessing characters in a string because it is essentially and array. 
+
+print(name[2])
