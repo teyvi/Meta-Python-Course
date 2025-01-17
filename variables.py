@@ -3,3 +3,5 @@ myName = "Angela"
 
 # snake case variable
 my_name = "Angela"
+
+print(myName)
