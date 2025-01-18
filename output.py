@@ -9,3 +9,6 @@ first_name = "john "
 last_name = "Hammer"
 
 print (first_name + last_name)
+
+#reserved keywords sep to separate concatenated strings 
+print("hello" , "John", sep=',')
