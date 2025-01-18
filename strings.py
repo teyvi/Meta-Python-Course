@@ -1,4 +1,4 @@
- #a string is a sequence of characters eclosed in a double or a single quote
+ #a string is a sequence of characters enclosed in a double or a single quote
 
 #single line string
 single_line_string = "Hello You!"
