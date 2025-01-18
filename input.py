@@ -1,2 +1,2 @@
 #adding an input function to display 
-input()
+input('Please enter a number')
