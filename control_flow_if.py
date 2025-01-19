@@ -29,3 +29,6 @@ match http_status:
         print('Server Error')
     case _:
         print('Unknown')
+
+
+#using loops to iterate in a sequence and access each item in the sequence
