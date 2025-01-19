@@ -16,3 +16,16 @@ else:
     print("Bill is less than 100")
 
 print("Total bill: " + str(total_bill))
+
+#switch statement helps create readable codes unlike if elif that get complex with many conditions
+
+http_status = 401
+match http_status:
+    case 200 | 201:
+        print('Success')
+    case 400 | 401:
+        print('Bad Request')
+    case 500 | 501 :
+        print('Server Error')
+    case _:
+        print('Unknown')
