@@ -12,7 +12,15 @@ for x in list1:
         count += 1
 print(count)
 
+
 #visualise the loop
 for x in list1:
     for y in list2:
         print (y, end=" ")
+
+
+#outer loop
+for i in range(2):
+    #innner loop
+    for j in range(10):
+        print(0, end = ' ')
