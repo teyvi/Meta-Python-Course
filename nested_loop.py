@@ -11,3 +11,8 @@ for x in list1:
     for y in list2:
         count += 1
 print(count)
+
+#visualise the loop
+for x in list1:
+    for y in list2:
+        print (y, end=" ")
