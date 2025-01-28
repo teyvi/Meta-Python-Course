@@ -8,8 +8,14 @@ favorites = ['chocolate', 'ice cream', 'cake', 'cookies', 'candy']
 for item in favorites:
     print('I love ', item)
 
+#check for an item in a sequence
 
-#while loop#a counter is declared to end the loop, the counter increment is also added
+for item in favorites:
+    if favorites == 'cake':
+        print('got it!', favorites)
+
+
+#while loop#a counter is declared to end the loop, the counter increment is also added.it is based upon a condition being true
 
 cars = ['porsche', 'tata', 'tesla','toyota']
 
