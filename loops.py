@@ -11,8 +11,8 @@ for item in favorites:
 #check for an item in a sequence
 
 for item in favorites:
-    if favorites == 'cake':
-        print('got it!', favorites)
+    if item == 'cake':
+        print('got it!', item)
 
 
 #while loop#a counter is declared to end the loop, the counter increment is also added.it is based upon a condition being true
